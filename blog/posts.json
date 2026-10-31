@@ -12,5 +12,19 @@
     "google_quality_passed": false,
     "eeat_score": 91,
     "seo_aeo_score": 6.52
+  },
+  {
+    "keyword": "AI service marketplace explained: complete guide for small businesses",
+    "title": "AI Service Marketplace Explained: Guide for Small Businesses",
+    "description": "AI service marketplace explained: complete guide for small businesses to compare vendors, pricing, and compliance before choosing an AI tool.",
+    "file": "ai-service-marketplace-explained-complete-guide-for-small-businesses.html",
+    "date": "2026-10-31",
+    "archetype": "authority_guide",
+    "archetype_confidence": 0.97,
+    "risk_level": "low",
+    "requires_human_review": false,
+    "google_quality_passed": true,
+    "eeat_score": 100,
+    "seo_aeo_score": 9.69
   }
 ]
