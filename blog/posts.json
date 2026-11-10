@@ -26,5 +26,33 @@
     "google_quality_passed": true,
     "eeat_score": 100,
     "seo_aeo_score": 9.69
+  },
+  {
+    "keyword": "answer engine optimization (AEO)",
+    "title": "Answer Engine Optimization (AEO): The Complete Guide for Small Business Owners",
+    "description": "Learn what answer engine optimization (AEO) is and how to prepare your website to be cited by AI search tools and voice assistants.",
+    "file": "answer-engine-optimization-aeo-the-complete-guide-for-small-.html",
+    "date": "2026-11-10"
+  },
+  {
+    "keyword": "executive AI",
+    "title": "Executive AI: A Decision-Maker's Playbook for Leading with Artificial Intelligence",
+    "description": "A premium guide for US business owners and marketers on leading AI adoption strategically, with a 5-step framework and governance checklist.",
+    "file": "executive-ai-a-decision-maker-s-playbook-for-leading-with-ar.html",
+    "date": "2026-11-10"
+  },
+  {
+    "keyword": "AI agents for small businesses",
+    "title": "AI Agents for Small Businesses: A Practical Authority Guide",
+    "description": "A practical, no-hype guide to AI agents for small businesses: what they do, where they pay off, and how to roll them out safely.",
+    "file": "ai-agents-for-small-businesses-a-practical-authority-guide.html",
+    "date": "2026-11-10"
+  },
+  {
+    "keyword": "building a website with AI",
+    "title": "The Small Business Guide to Building a Website with AI",
+    "description": "A practical, no-fluff guide for US small business owners on building a website with AI — steps, checklists, and pitfalls to avoid.",
+    "file": "the-small-business-guide-to-building-a-website-with-ai.html",
+    "date": "2026-11-10"
   }
 ]
